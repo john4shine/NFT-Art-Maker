@@ -1,0 +1,2 @@
+# NFT-Art-Maker
+DEFAULT
